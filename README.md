@@ -16,12 +16,12 @@ HTML-выдача FastQC лежит в data
 
 ENCFF779MAL | ENCFF586LPF | ENCFF835IOE
 --- | --- | ---
-![image](data/ChipSeq_ENCFF779MAL.png) | ![image](data/ChipSeq_ENCFF586LPF.png) | ![image](data/ChipSeq_ENCFF835IOE.png) 
-![image](data/Pbsq_ENCFF779MAL.png) | ![image](data/Pbsq_ENCFF586LPF.png) | ![image](data/Pbsq_ENCFF835IOE.png) 
-![image](data/Psqs_ENCFF779MAL.png) | ![image](data/Psqs_ENCFF586LPF.png)| ![image](data/Psqs_ENCFF835IOE.png) 
-![image](data/Pbsc_ENCFF779MAL.png) | ![image](data/Pbsc_ENCFF586LPF.png) | ![image](data/Pbsc_ENCFF835IOE.png) 
-![image](data/PsGCc_ENCFF779MAL.png) | ![image](data/PsGCc_ENCFF586LPF.png) | ![image](data/PsGCc_ENCFF835IOE.png) 
-![image](data/PbNc_ENCFF779MAL.png) | ![image](data/PbNc_ENCFF586LPF.png) | ![image](data/PbNc_ENCFF835IOE.png) 
+![image](data/ChipSeq_ENCFF779MAL.PNG) | ![image](data/ChipSeq_ENCFF586LPF.png) | ![image](data/ChipSeq_ENCFF835IOE.PNG) 
+![image](data/Pbsq_ENCFF779MAL.PNG) | ![image](data/Pbsq_ENCFF586LPF.PNG) | ![image](data/Pbsq_ENCFF835IOE.PNG) 
+![image](data/Psqs_ENCFF779MAL.PNG) | ![image](data/Psqs_ENCFF586LPF.PNG)| ![image](data/Psqs_ENCFF835IOE.PNG) 
+![image](data/Pbsc_ENCFF779MAL.PNG) | ![image](data/Pbsc_ENCFF586LPF.PNG) | ![image](data/Pbsc_ENCFF835IOE.PNG) 
+![image](data/PsGCc_ENCFF779MAL.PNG) | ![image](data/PsGCc_ENCFF586LPF.PNG) | ![image](data/PsGCc_ENCFF835IOE.PNG) 
+![image](data/PbNc_ENCFF779MAL.PNG) | ![image](data/PbNc_ENCFF586LPF.PNG) | ![image](data/PbNc_ENCFF835IOE.PNG) 
 
 
 ## Таблица со статистикой по выравниванию на 16 хромосому
@@ -38,14 +38,14 @@ ENCFF835IOE | 13603127 | 343054 | 2.52% | 733708 | 5.39% | 12526365 | 92.08%
 
 1 реплика с ENCODE | ENCODE с 1 репликой
 --- | ---
-![Intervene_venn_(1) page-0001](data/Intervene_venn_1.png) | ![Intervene_venn (2)_page-0001](data/Intervene_venn_2.png)
+![Intervene_venn_(1) page-0001](data/Intervene_venn_1.PNG) | ![Intervene_venn (2)_page-0001](data/Intervene_venn_2.PNG)
 
 ### Пересечение пиков 2 реплики и ENCODE
 
 
 2 реплика с ENCODE | ENCODE и 2 репликой
 --- | ---
-![Intervene_venn (3)_page-0001](data/Intervene_venn_3.png) | ![Intervene_venn (4)_page-0001](data/Intervene_venn_4.png)
+![Intervene_venn (3)_page-0001](data/Intervene_venn_3.PNG) | ![Intervene_venn (4)_page-0001](data/Intervene_venn_4.PNG)
 
 
 Пересечений довольно мало, это связано с тем, что выравнивание производилось только на одну хромосому. В базе данных ENCODE пики составлены для всех хромосом, поэтому их намного больше. Пересечение наших пиков с ENCODE и пересечение ENCODE с нашими пиками - разные вещи, в связи с чем и наблюдаются различные значения.
